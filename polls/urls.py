@@ -1,6 +1,8 @@
 from django.urls import path
 from . import views
 
+#http://localhost:8000/polls/
+#http://127.0.0.1:8000/admin/
 
 app_name = 'polls'
 urlpatterns = [
